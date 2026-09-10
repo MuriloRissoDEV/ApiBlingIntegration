@@ -229,5 +229,3 @@ Após 3 tentativas, a requisição falha e é registrada para análise.
 Este projeto é privado e não possui licença de uso aberta.
 
 ---
-
-Agora é só copiar todo o conteúdo acima e colar no editor do README no GitHub. Ele vai renderizar formatado, com tabelas, emojis, blocos de código e tudo. Depois não esqueça de preencher a seção **About** com a descrição e os topics!
