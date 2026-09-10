@@ -1,0 +1,54 @@
+# === User Secrets ===
+appsettings.Development.json
+appsettings.Local.json
+*.secrets.json
+secrets.json
+
+# === Visual Studio ===
+.vs/
+*.user
+*.suo
+*.userprefs
+*.cache
+
+# === Build results ===
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# === NuGet ===
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# === ASP.NET Core ===
+*.log
+*.pidb
+*.svclog
+*.scc
+
+# === DotNet CLI ===
+.dotnet/
+*.dotnet-tools.json
+
+# === IDEs ===
+.idea/
+*.swp
+*~
+
+# === Sistema operacional ===
+.DS_Store
+Thumbs.db
+
+# === Variáveis de ambiente / secrets ===
+.env
+.env.*
+*.env

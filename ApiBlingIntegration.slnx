@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiBling.Api/ApiBling.Api.csproj" />
+  <Project Path="ApiBling.Application/ApiBling.Application.csproj" />
+  <Project Path="ApiBling.Domain/ApiBling.Domain.csproj" />
+  <Project Path="ApiBling.Infrastructure/ApiBling.Infrastructure.csproj" />
+</Solution>
