@@ -181,7 +181,7 @@ A API ficará disponível em `https://localhost:7xxx` e o Swagger em `/swagger`.
 
 ---
 
-## 🔐 Segurança
+##  Segurança
 
 - As credenciais do Bling (ClientId e ClientSecret) **não estão no repositório**
 - A string de conexão com o banco de dados **não está no repositório**
@@ -191,7 +191,7 @@ A API ficará disponível em `https://localhost:7xxx` e o Swagger em `/swagger`.
 
 ---
 
-## 📌 Endpoints
+##  Endpoints
 
 A API expõe endpoints REST para sincronização e consulta dos dados:
 
@@ -210,7 +210,7 @@ A API expõe endpoints REST para sincronização e consulta dos dados:
 
 ---
 
-## 🤝 Tratamento de Rate Limiting
+##  Tratamento de Rate Limiting
 
 O Bling ERP impõe limites de requisições (HTTP 429 - Too Many Requests). Este projeto utiliza a biblioteca **Polly** para interceptar esse erro e aplicar retry com backoff exponencial:
 
