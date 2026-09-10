@@ -224,7 +224,7 @@ Após 3 tentativas, a requisição falha e é registrada para análise.
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto é privado e não possui licença de uso aberta.
 
